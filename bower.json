@@ -3,7 +3,7 @@
   "version": "1.3.5",
   "description": "Parse JS SDK",
   "main": "lib/parse.js",
-  "ignore": []
+  "ignore": [],
   "license": "MIT",
   "homepage": "https://parse.com"
 }
