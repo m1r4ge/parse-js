@@ -1,8 +1,8 @@
 {
   "name": "parse-js",
-  "version": "1.3.5",
+  "version": "1.4.0",
   "description": "Parse JS SDK",
-  "main": "lib/parse.js",
+  "main": "parse.js",
   "ignore": [],
   "license": "MIT",
   "homepage": "https://parse.com"
