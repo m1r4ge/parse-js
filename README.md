@@ -1,1 +1,1 @@
-# Parse JS SDK v1.3.5
+# Parse JS SDK v1.4.2
