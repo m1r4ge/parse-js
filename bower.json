@@ -1,6 +1,6 @@
 {
   "name": "parse-js",
-  "version": "1.4.2",
+  "version": "1.7.1",
   "description": "Parse JS SDK",
   "main": "parse.js",
   "ignore": [],
